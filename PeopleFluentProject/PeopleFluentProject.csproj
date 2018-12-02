@@ -48,6 +48,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Deal.cs" />
     <Compile Include="NunitTestCases.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="ShopCheckoutSystem.cs" />
